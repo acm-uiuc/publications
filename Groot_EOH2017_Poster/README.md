@@ -16,5 +16,5 @@ We introduce a novel framework for creating unified application/programmer inter
 - [Tyler Kim](https://github.com/tyler-thetyrant)
 
 
-## Permissions
-Permission to make digital or hard copies of part or all of this repository for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the ACM@UIUC/author(s).
+## License
+Publications by ACM@UIUC are published under Creative Commons Attribution-ShareAlike 4.0 International Public License. See the LICENSE file for the full text. 
