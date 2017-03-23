@@ -1,6 +1,6 @@
 # Groot Poster for EOH 2017
 
-Project Groot presentation for the Engineering Open House 2017. It was presented at the ACM@UIUC Office on March 10th and 11th 2017.
+Project Groot presentation for the Engineering Open House 2017. It was presented at the ACM@UIUC Office on March 10~11th, 2017.
 
 
 ## Abstract
@@ -17,4 +17,4 @@ We introduce a novel framework for creating unified application/programmer inter
 
 
 ## License
-Publications by ACM@UIUC are published under Creative Commons Attribution-ShareAlike 4.0 International Public License. See the LICENSE file for the full text. 
+Publications by ACM@UIUC are published under Creative Commons Attribution-ShareAlike 4.0 International Public License. See the LICENSE file for the full text.
